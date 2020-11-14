@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 
 const App = () => {
   const X = React.Fragment;
-
   return (
     <div>
       foo
